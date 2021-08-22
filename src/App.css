@@ -11,6 +11,9 @@
 }
 
 .title {
+  font-family: "Rampart One", cursive;
+  letter-spacing: 0.25em;
+  font-size: 3em;
   margin: 0;
   padding: 2rem 0;
   color: white;
